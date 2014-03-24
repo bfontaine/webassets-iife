@@ -2,7 +2,7 @@
 webassets-iife
 ==============
 
-.. image:: https://img.shields.webassets-iife.png
+.. image:: https://img.shields.io/pypi/v/webassets-iife.png
    :target: https://pypi.python.org/pypi/webassets-iife
    :alt: Pypi package
 
