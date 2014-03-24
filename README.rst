@@ -2,8 +2,8 @@
 webassets-iife
 ==============
 
-.. image:: https://img.shields.io/pypi/v/term2048.png
-   :target: https://pypi.python.org/pypi/term2048
+.. image:: https://img.shields.webassets-iife.png
+   :target: https://pypi.python.org/pypi/webassets-iife
    :alt: Pypi package
 
 ``webassets-iife`` is a webassets_ filter to wrap a JavaScript bundle in an
