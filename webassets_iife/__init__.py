@@ -8,7 +8,7 @@ global leaks.
 
 from webassets.filter import Filter, register_filter
 
-__version__ = '0.0.2'
+__version__ = '0.1.0'
 __all__ = ('IIFE',)
 
 
