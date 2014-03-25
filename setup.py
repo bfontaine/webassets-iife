@@ -26,7 +26,7 @@ setup(
     url='https://github.com/bfontaine/webassets-iife',
     license=open('LICENSE', 'r').read(),
     description='IIFE filter for webassets',
-    long_description=open('README.rst', 'r').read(),
+    long_description='A webassets filter to wrap JS code in an IIFE',
     classifiers=[
         'Environment :: Console',
         'License :: OSI Approved :: MIT License',

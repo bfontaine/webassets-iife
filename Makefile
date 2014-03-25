@@ -46,4 +46,6 @@ clean:
 	rm -f $(COVERFILE)
 
 publish: stylecheck check-versions
+	cp README.rst README
 	python setup.py sdist upload
+	rm -f README
