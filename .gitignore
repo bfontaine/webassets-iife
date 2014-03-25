@@ -3,5 +3,8 @@
 *.pyc
 __pycache__
 .DS_Store
-/dist
 *.egg-info
+.coverage
+.tox
+/venv
+/dist
