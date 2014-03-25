@@ -29,6 +29,8 @@ Install
 
     pip install webassets-iife
 
+The filter works with both Python 2.x and 3.x.
+
 Usage
 -----
 
